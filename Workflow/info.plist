@@ -763,7 +763,7 @@ Perform Optical Character recognition on images and PDFs via the [Universal Acti
 		</dict>
 	</array>
 	<key>version</key>
-	<string>25.1</string>
+	<string>25.2</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/multi-ocr-workflow/</string>
 </dict>
